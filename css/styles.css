@@ -164,7 +164,7 @@ img {
     padding-top: 84px;
     padding-bottom: 84px;
     color: slategrey;
-    
+    padding-right: 30px;
 }
 
  .flex-box li {
@@ -175,6 +175,7 @@ img {
  }
  .flex-box li p{
     padding-top: 20px;
+    
  }
 .html5 .fa-html5{
     font-size: 55px;
@@ -212,10 +213,17 @@ img {
 .flex-box2 li{
     list-style: none;
 }
+.flex-box2 p {
+    padding-right: 30px;
+}
 .container .contact {
   text-align: center;
   margin-bottom: 200px;
   margin-top: 100px;
+
+}
+.contact p {
+    padding-left: 15px;
 }
 .container p {
     padding-top: 30px;
@@ -223,6 +231,7 @@ img {
 
 .fa-twitter-square {
     font-size: 55px;
+    margin-left: 15px;
 }
 
 footer {
