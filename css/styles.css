@@ -1,3 +1,4 @@
+
 /* common */
 /* small screen モバイルファースト*/
 body {
@@ -193,6 +194,9 @@ img {
     font-size: 55px;
     color: seashell;
 }
+.wordpress .fa-wordpress{
+    font-size: 55px;
+}
 .container .sample h1{
     text-align: center;
     margin: 0 auto;
@@ -216,6 +220,7 @@ img {
 .flex-box2 p {
     padding-right: 30px;
 }
+
 .container .contact {
   text-align: center;
   margin-bottom: 200px;
