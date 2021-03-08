@@ -176,8 +176,8 @@ img {
  }
  .flex-box li p{
     padding-top: 20px;
-    
  }
+
 .html5 .fa-html5{
     font-size: 55px;
     color: plum;
@@ -220,7 +220,9 @@ img {
 .flex-box2 p {
     padding-right: 30px;
 }
-
+.flex-box2 ul {
+    padding-left: 0;
+}
 .container .contact {
   text-align: center;
   margin-bottom: 200px;
